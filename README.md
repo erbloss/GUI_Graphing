@@ -33,6 +33,12 @@ It’s a useful learning/demonstration tool for graph theory concepts and for ge
 - JavaFX for GUI (layout, event handling, drawing)  
 
 ---
+## Screenshots
+
+- Please see the /images folder of this repo
+- UML diagram included
+
+---
 
 ## Getting Started
 
